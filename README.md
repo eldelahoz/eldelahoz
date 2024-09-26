@@ -12,10 +12,11 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM3ZHZtZnFoZ2l3eW41ZTl1MndiNXA2eDk2NTVtZ2g3cXJveXI3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="30"> from Colombia.
+I am a Colombian Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM3ZHZtZnFoZ2l3eW41ZTl1MndiNXA2eDk2NTVtZ2g3cXJveXI3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="30">.
 - :telescope: I’m currently working on enterprise banking projects
 - :seedling: I’m currently learning Angular
-- :zap: In my free time, I explore services and applications with nanocomputers, travel, spend time with my family and watch movies or series.
+- :zap: On my free time, I explore services and applications with nanocomputers, travel, spend time with my family and watch movies or series.
+- ⚡ Fun fact: I speak french.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
