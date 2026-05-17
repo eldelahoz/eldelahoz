@@ -12,11 +12,11 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Colombian Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXM3ZHZtZnFoZ2l3eW41ZTl1MndiNXA2eDk2NTVtZ2g3cXJveXI3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="30">.
-- :telescope: I’m currently working on enterprise banking projects
-- :seedling: I’m currently learning Angular
-- :zap: On my free time, I explore services and applications with nanocomputers, travel, spend time with my family and watch movies or series.
-- ⚡ Fun fact: I speak french.
+I am a Senior Backend Developer with extensive experience in the .NET ecosystem, including frameworks like Blazor and private libraries. I specialize in implementing clean architecture, design patterns, and building scalable systems. Additionally, I have solid knowledge of the frontend with React.
+
+- :telescope: Currently working on advanced batch processing systems and dynamic expression libraries for enterprise applications.
+- :seedling: Exploring modern practices for documentation structuring with Markdown and Mermaid.
+- :zap: Beyond work, I contribute to open-source projects like PowerToys and Firefly, and enjoy time with my family while exploring new technologies.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -44,6 +44,12 @@ I am a Colombian Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2l
 </div>
 
 ### :fire: My Stats :
+
+### :zap: My Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- Dynamic content updates from GitHub Actions -->
+<!--END_SECTION:activity-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eldelahoz&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldelahoz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
