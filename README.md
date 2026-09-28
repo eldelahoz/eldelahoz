@@ -18,7 +18,7 @@ Now applying the same discipline to **Rust services + React frontends + cloud in
 
 - **Currently:** batch processing + dynamic expression libraries.
 - **Exploring:** docs-as-code (Markdown + Mermaid).
-- **Open-source:** [shipped PRs](#-open-source) in Firefly Pico, PowerToys Run plugins and WFHelper.
+- **Open-source:** I like to contribute to open-source projects, usually to tools that I use, such as Firefly Pico, PowerToys Run plugins, WFHelper but if there are projects to contribute to, why not?
 - **Beyond code:** family + homelab tinkering.
 
 ### <img src="./assets/icons/target.svg" width="22"> What I do
